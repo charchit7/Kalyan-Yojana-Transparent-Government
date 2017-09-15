@@ -16,3 +16,6 @@ cd env
 source bin/activate
 cd akatsuki/
 python3 manage.py runserver
+
+
+## check project (running on local host) :https://www.youtube.com/watch?v=JNgYj9f3fk8&t=3s
