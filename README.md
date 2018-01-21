@@ -29,7 +29,7 @@ sudo pip install virtualenv<br>
 sudo pip install django<br>
 
 
-<h3>Instructions for Execution </h3>:
+<h3>Instructions for Execution: </h3>
 cd env/<br>
 cd akatsuki/<br>
 python3 manage.py makemigrations<br>
