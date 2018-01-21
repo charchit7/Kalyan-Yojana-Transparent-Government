@@ -1,27 +1,24 @@
 <h1>Kalyan Yojana :: Transparent Government</h1
 
 
-Project descriptionProject prepared during Rajasthan Hackathon 
+Project descriptionProject prepared during Rajasthan Hackathon 2.0
 :: Theme : Bhamashah Yojana 
-:: Technology used : Python-Django-Postgresql 
+:: Technology used : Python-Django-Postgresql-Vanilla Js
 :: API's used : Bhamashah API , Google-Maps-Location API
 
 ::Objective : "Man in the Middle" platform between the government and rural people. The platform 
 makes people (having bhamashah Card) aware, of all the benefits that they can avail from 
 the "Bhamashah Yojana", via notifications.
+
 Apart from this, through this platform they can submit online applications to avail benefits 
 of everyday government policies like the loan for education and health, and also one can 
 file complaints and give suggestions regarding improper government services tempered by 
 the local authorities.
+
 Moreover, a separate login for the government officials has been incorporated so that they 
 can process all the complains and services and can also check the location of each 
 complainee and consult the local authorities.
 
-Features To Add: Use machine learning and AI for making the interface more reliable and secure. 
--------------------------------------------------------------------------------------------------------------------------------
-Project Source Code : https://github.com/manoj-jeswani/Rajasthan_Hackathon_Project
-
-Video of project (running on local host) : https://youtu.be/JNgYj9f3fk8
 
 
 
